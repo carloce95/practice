@@ -26,8 +26,8 @@ public class TableroArrays {
 	 }
 	    System.out.println ();
 	}
-
-	/*añado comentario */
+         /*añado comentario*/
+	
 	}
 	
 }
